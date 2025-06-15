@@ -105,7 +105,7 @@ export default function Portfolio() {
       technologies: ["Python", "LSTM", "Pandas", "NumPy", "TypeScript", "Tailwind CSS"],
       image: "/ProjectProfiles/LSTM.jpg?height=200&width=300",
       github: "https://github.com/abhi-ingithub22/Predicting-Market-Share-Patterns-using-LSTM",
-      demo: "#",
+      demo: "https://predicting-market-share-patterns-us.vercel.app/#/",
     },
     {
       id: 3,
@@ -116,7 +116,7 @@ export default function Portfolio() {
       technologies: ["React Native", "Node.js", "JavaScript"],
       image: "/ProjectProfiles/GuessTheNumber.png?height=200&width=300",
       github: "https://github.com/abhi-ingithub22/Guess-the-Number-game",
-      demo: "#",
+      demo: "https://vercel.com/abhirup-deys-projects/guess-the-number-game",
     },
     {
       id: 4,
